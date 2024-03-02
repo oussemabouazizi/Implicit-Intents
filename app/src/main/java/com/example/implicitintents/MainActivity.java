@@ -73,5 +73,7 @@ public class MainActivity extends AppCompatActivity {
                 .setChooserTitle(R.string.share_text)
                 .setText(txt)
                 .startChooser();
+
     }
+    //
 }
