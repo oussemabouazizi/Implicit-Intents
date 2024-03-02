@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="http_developer_android_com">http://developer.android.com</string>
+    <string name="share_text">SHARE TEXT</string>
+    <string name="mobile_programming_example">Mobile Programming Example</string>
+    <string name="isims">ISIMS</string>
+    <string name="uri_label" />
+</resources>
